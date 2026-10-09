@@ -1,0 +1,165 @@
+{
+  "site": {
+    "title": "El Galeón de Alcorcón · Restaurante de cocina tradicional",
+    "description": "Casa de comidas en el corazón de Alcorcón: cocina tradicional española, recetas heredadas y menú de temporada. Reserve su mesa en {street}."
+  },
+  "nav": {
+    "label": "Principal",
+    "mobileLabel": "Menú principal",
+    "openMenu": "Menú",
+    "closeMenu": "Cerrar",
+    "skipToContent": "Saltar al contenido",
+    "logoAlt": "El Galeón de Alcorcón, inicio",
+    "about": "Nosotros",
+    "kitchen": "Cocina",
+    "visit": "Horario y contacto",
+    "menu": "Carta",
+    "reserve": "Reservar",
+    "reserveTable": "Reservar mesa",
+    "newTab": "(se abre en una pestaña nueva)"
+  },
+  "anchors": {
+    "about": "nosotros",
+    "kitchen": "cocina",
+    "visit": "visitenos"
+  },
+  "localeSwitcher": {
+    "label": "Idioma",
+    "es": "Español",
+    "en": "English"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Casa de comidas",
+      "title": "Cocina <br></br>tradicional española, <em>hecha como antes</em>",
+      "intro": "Platos elaborados con mimo, ingredientes de calidad y recetas heredadas de generación en generación.",
+      "reserve": "Reservar mesa",
+      "menu": "Ver la carta"
+    },
+    "facts": {
+      "address": "Dirección",
+      "phone": "Teléfono"
+    },
+    "hours": {
+      "weekdays": "Lunes a viernes",
+      "weekend": "Sábado y domingo"
+    },
+    "about": {
+      "label": "Sobre nosotros",
+      "lead": "En el corazón de Alcorcón nace nuestro restaurante con una misión muy clara:",
+      "quote": "«Rescatar los sabores de siempre y compartirlos con quienes valoran la cocina de verdad»"
+    },
+    "house": {
+      "label": "Nuestra casa",
+      "title": "Una casa de comidas con alma",
+      "p1": "Somos un equipo apasionado por la gastronomía tradicional española, comprometido con ofrecer platos elaborados con mimo, ingredientes de calidad y recetas heredadas de generación en generación.",
+      "p2": "Cada guiso, cada tapa y cada postre que servimos cuenta una historia: la de nuestras raíces, de nuestras familias, de las casas de pueblo donde el aroma a puchero lo llenaba todo.",
+      "p3": "Aquí no hay prisas ni artificios, solo cocina auténtica, hecha como antes, con respeto al producto y amor por lo que hacemos."
+    },
+    "kitchen": {
+      "label": "La cocina",
+      "title": "Al ritmo de las estaciones",
+      "text": "Nuestro menú cambia con las estaciones, respetando la temporalidad y apostando por lo fresco y lo nuestro.",
+      "menu": "Ver la carta completa"
+    },
+    "invite": {
+      "text": "Queremos que cada visita sea un viaje al pasado, una experiencia cercana, cálida y sabrosa.",
+      "title": "Bienvenidos al <nw>Galeón de Alcorcón.</nw> <gold>Bienvenidos a casa.</gold>",
+      "reserve": "Reservar mesa",
+      "menu": "Ver la carta"
+    },
+    "visit": {
+      "label": "Visítenos",
+      "title": "Horario y contacto",
+      "address": "Dirección",
+      "directions": "Cómo llegar",
+      "hours": "Horario",
+      "contact": "Contacto",
+      "reserve": "Reservar mesa"
+    },
+    "photos": {
+      "pulpo": {
+        "alt": "Pulpo con tomate en plato hondo blanco sobre mantel granate",
+        "caption": "Pulpo con tomate"
+      },
+      "vino": {
+        "alt": "Vino tinto servido en una hilera de copas",
+        "caption": "Vino tinto"
+      },
+      "huevoroto": {
+        "alt": "Huevos rotos con jamón sobre patatas fritas",
+        "caption": "Huevos rotos con jamón"
+      },
+      "anchoa": {
+        "alt": "Anchoas sobre tomate con cebolla morada y aceitunas negras",
+        "caption": "Anchoas sobre tomate"
+      },
+      "ternera": {
+        "alt": "Ternera en lonchas con patatas y pimiento asado",
+        "caption": "Ternera con patatas"
+      },
+      "chuleton": {
+        "alt": "Chuletón a la parrilla en fuente de hierro",
+        "caption": "Chuletón"
+      },
+      "alcachofa": {
+        "alt": "Alcachofas con jamón",
+        "caption": "Alcachofas con jamón"
+      },
+      "brownie": {
+        "alt": "Brownie con salsa de chocolate, hojas de menta y barquillo",
+        "caption": "Brownie"
+      }
+    }
+  },
+  "footer": {
+    "label": "Legal",
+    "legalNotice": "Aviso legal",
+    "privacy": "Política de privacidad",
+    "instagram": "Instagram",
+    "copyright": "© Restaurante El Galeón de Alcorcón",
+    "logoAlt": "El Galeón de Alcorcón"
+  },
+  "legalNotice": {
+    "metaTitle": "Aviso legal",
+    "metaDescription": "Aviso legal del sitio web de El Galeón de Alcorcón: datos del titular, condiciones de uso, propiedad intelectual y exclusión de responsabilidad.",
+    "label": "Información legal",
+    "heading": "Aviso Legal",
+    "intro": "En cumplimiento con el deber de información recogido en el artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y del Comercio Electrónico, a continuación se reflejan los siguientes datos:",
+    "owner": "Titular",
+    "taxId": "NIF/CIF",
+    "address": "Domicilio social",
+    "phone": "Teléfono",
+    "email": "Correo electrónico",
+    "termsTitle": "Condiciones de uso",
+    "termsBody": "El acceso y/o uso de este sitio web atribuye la condición de usuario, que acepta, desde dicho acceso y/o uso, las presentes condiciones de uso. Estas condiciones serán de aplicación independientemente de las Condiciones Generales de Contratación que en su caso resulten de obligado cumplimiento.",
+    "propertyTitle": "Propiedad intelectual e industrial",
+    "propertyBody": "Los contenidos de este sitio web, incluidos, a título enunciativo, textos, imágenes, gráficos, logotipos y otros, son propiedad de {company}, o de terceros que han autorizado su uso. Todos los derechos están reservados. Cualquier uso no autorizado de los mismos será considerado un incumplimiento de los derechos de propiedad intelectual o industrial.",
+    "liabilityTitle": "Exclusión de garantías y responsabilidad",
+    "liabilityBody": "{company} no se hace responsable, en ningún caso, de los daños y perjuicios de cualquier naturaleza que pudieran ocasionar, a título enunciativo, errores u omisiones en los contenidos, falta de disponibilidad del sitio web o la transmisión de virus o programas maliciosos o lesivos en los contenidos, a pesar de haber adoptado todas las medidas tecnológicas necesarias para evitarlo.",
+    "changesTitle": "Modificaciones",
+    "changesBody": "{company} se reserva el derecho de realizar sin previo aviso las modificaciones que considere oportunas en su sitio web, pudiendo cambiar, suprimir o añadir tanto los contenidos y servicios que se presten a través de la misma como la forma en la que éstos aparezcan presentados."
+  },
+  "privacy": {
+    "metaTitle": "Política de privacidad",
+    "metaDescription": "Política de privacidad de El Galeón de Alcorcón: este sitio web no recopila datos personales ni utiliza cookies. Enlaces a terceros y modificaciones.",
+    "label": "Información legal",
+    "heading": "Política de Privacidad",
+    "intro": "En este sitio web no se recopilan datos personales de los usuarios. Los enlaces y el contenido disponible se limitan a proporcionar información sobre el restaurante {company}, como la ubicación y detalles del menú.",
+    "purposeTitle": "1. Finalidad del sitio web",
+    "purposeBody": "El propósito de este sitio web es ofrecer información sobre el restaurante {company}, incluyendo la dirección, contacto y enlaces a plataformas externas como Google Maps para facilitar el acceso.",
+    "linksTitle": "2. Enlaces a terceros",
+    "linksBody": "Este sitio web contiene enlaces a sitios externos, como Google Maps. {company} no se responsabiliza del contenido o las políticas de privacidad de dichos sitios. Recomendamos que los usuarios revisen las políticas de privacidad de las plataformas a las que accedan a través de nuestros enlaces.",
+    "cookiesTitle": "3. Cookies",
+    "cookiesBody": "Este sitio web no utiliza cookies ni otros mecanismos de rastreo de información.",
+    "changesTitle": "4. Modificaciones",
+    "changesBody": "{company} se reserva el derecho a modificar esta política de privacidad para adaptarla a novedades legislativas o de funcionamiento del sitio web. Cualquier cambio será publicado en esta misma página."
+  },
+  "notFound": {
+    "metaTitle": "Página no encontrada",
+    "label": "Error 404",
+    "heading": "Página no encontrada",
+    "body": "La página que busca no existe o ha cambiado de dirección.",
+    "backHome": "Volver al inicio"
+  }
+}

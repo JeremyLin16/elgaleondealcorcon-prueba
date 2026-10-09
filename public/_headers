@@ -1,0 +1,22 @@
+# Workers Static Assets: these rules apply to files served without running the
+# Worker (everything in public/ and /_next/static). Pages rendered by the
+# Worker get their headers from next.config.ts -> headers(); keep the security
+# headers below in sync with SECURITY_HEADERS there (HSTS is sent with pages).
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+# Hashed Next.js build files never change.
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Photos and icons: without a rule Workers Static Assets sends max-age=0, so
+# every repeat visit revalidates each photo. One week, not "immutable":
+# scripts/images/photos.py and brand.py keep a file's name when they rebuild
+# it, so a replaced photo can stay in a visitor's cache for up to a week.
+/images/*
+  Cache-Control: public, max-age=604800
+/icons/*
+  Cache-Control: public, max-age=604800

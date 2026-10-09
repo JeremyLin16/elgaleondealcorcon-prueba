@@ -1,0 +1,49 @@
+# Same checks as "Before finishing a task" in CONTRIBUTING.md, on every push to main
+# and every pull request. Cloudflare Workers Builds deploys separately; this
+# workflow only tells you whether a commit is safe to merge.
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+# The job only reads the code; without this GITHUB_TOKEN gets the repository
+# default, which can be read/write.
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+          cache: npm
+
+      - run: npm ci
+      - run: npm run typecheck
+      - run: npm run lint
+      - run: npm run check:messages
+      - run: npm run build
+
+      - name: Start the production server
+        run: |
+          npm start -- --port 3000 > next-start.log 2>&1 &
+          for i in $(seq 1 60); do
+            curl -sf -o /dev/null http://localhost:3000/robots.txt && exit 0
+            sleep 1
+          done
+          cat next-start.log
+          exit 1
+
+      - name: SEO check
+        run: npm run seo:check -- http://localhost:3000

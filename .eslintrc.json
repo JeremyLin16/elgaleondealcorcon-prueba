@@ -1,0 +1,22 @@
+{
+  "root": true,
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "no-restricted-imports": [
+      "error",
+      {
+        "paths": [
+          {
+            "name": "next/link",
+            "message": "Use Link from @/i18n/navigation: it adds the locale prefix and the localized pathname (CONTRIBUTING.md rule 6)."
+          },
+          {
+            "name": "next/navigation",
+            "importNames": ["redirect", "permanentRedirect", "useRouter", "usePathname"],
+            "message": "Use the locale-aware versions from @/i18n/navigation (CONTRIBUTING.md rule 6)."
+          }
+        ]
+      }
+    ]
+  }
+}

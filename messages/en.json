@@ -1,0 +1,165 @@
+{
+  "site": {
+    "title": "El Galeón de Alcorcón · Traditional Spanish restaurant",
+    "description": "An eating house in the heart of Alcorcón: traditional Spanish cooking, recipes handed down through generations and a seasonal menu. Book at {street}."
+  },
+  "nav": {
+    "label": "Main",
+    "mobileLabel": "Main menu",
+    "openMenu": "Menu",
+    "closeMenu": "Close",
+    "skipToContent": "Skip to content",
+    "logoAlt": "El Galeón de Alcorcón, home",
+    "about": "About us",
+    "kitchen": "Kitchen",
+    "visit": "Hours and contact",
+    "menu": "Our menu",
+    "reserve": "Book",
+    "reserveTable": "Book a table",
+    "newTab": "(opens in a new tab)"
+  },
+  "anchors": {
+    "about": "about",
+    "kitchen": "kitchen",
+    "visit": "visit"
+  },
+  "localeSwitcher": {
+    "label": "Language",
+    "es": "Español",
+    "en": "English"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Eating house",
+      "title": "Traditional <br></br>Spanish cooking, <em>the way it used to be</em>",
+      "intro": "Dishes prepared with care, quality ingredients and recipes handed down from generation to generation.",
+      "reserve": "Book a table",
+      "menu": "See the menu"
+    },
+    "facts": {
+      "address": "Address",
+      "phone": "Phone"
+    },
+    "hours": {
+      "weekdays": "Monday to Friday",
+      "weekend": "Saturday and Sunday"
+    },
+    "about": {
+      "label": "About us",
+      "lead": "In the heart of Alcorcón, our restaurant was born with a very clear mission:",
+      "quote": "“To bring back time-honoured flavours and share them with those who value real cooking”"
+    },
+    "house": {
+      "label": "Our house",
+      "title": "An eating house with soul",
+      "p1": "We are a team with a passion for traditional Spanish food, committed to serving dishes prepared with care, quality ingredients and recipes handed down from generation to generation.",
+      "p2": "Every stew, every tapa and every dessert we serve tells a story: the story of our roots, of our families, of the village homes where the smell of the stewpot filled every room.",
+      "p3": "Here there is no rush and no artifice, just authentic cooking, the way it used to be, with respect for the produce and love for what we do."
+    },
+    "kitchen": {
+      "label": "The kitchen",
+      "title": "In step with the seasons",
+      "text": "Our menu changes with the seasons, respecting what each one brings and choosing what is fresh and what is ours.",
+      "menu": "See the full menu"
+    },
+    "invite": {
+      "text": "We want every visit to be a journey back in time: a friendly, warm and delicious experience.",
+      "title": "Welcome to <nw>El Galeón de Alcorcón.</nw> <gold>Welcome home.</gold>",
+      "reserve": "Book a table",
+      "menu": "See the menu"
+    },
+    "visit": {
+      "label": "Visit us",
+      "title": "Opening hours and contact",
+      "address": "Address",
+      "directions": "Get directions",
+      "hours": "Opening hours",
+      "contact": "Contact",
+      "reserve": "Book a table"
+    },
+    "photos": {
+      "pulpo": {
+        "alt": "Octopus with tomato in a white bowl on a burgundy tablecloth",
+        "caption": "Octopus with tomato"
+      },
+      "vino": {
+        "alt": "Red wine poured into a row of glasses",
+        "caption": "Red wine"
+      },
+      "huevoroto": {
+        "alt": "Huevos rotos: fried eggs broken over chips, with jamón",
+        "caption": "Huevos rotos with jamón"
+      },
+      "anchoa": {
+        "alt": "Anchovies on tomato with red onion and black olives",
+        "caption": "Anchovies on tomato"
+      },
+      "ternera": {
+        "alt": "Sliced beef with potatoes and roasted pepper",
+        "caption": "Beef with potatoes"
+      },
+      "chuleton": {
+        "alt": "Grilled bone-in rib steak on an iron platter",
+        "caption": "Chuletón rib steak"
+      },
+      "alcachofa": {
+        "alt": "Artichokes with jamón",
+        "caption": "Artichokes with jamón"
+      },
+      "brownie": {
+        "alt": "Brownie with chocolate sauce, mint leaves and a wafer roll",
+        "caption": "Brownie"
+      }
+    }
+  },
+  "footer": {
+    "label": "Legal",
+    "legalNotice": "Legal notice",
+    "privacy": "Privacy policy",
+    "instagram": "Instagram",
+    "copyright": "© El Galeón de Alcorcón restaurant",
+    "logoAlt": "El Galeón de Alcorcón"
+  },
+  "legalNotice": {
+    "metaTitle": "Legal notice",
+    "metaDescription": "Legal notice of the El Galeón de Alcorcón website: details of the owner, terms of use, intellectual property and disclaimer of liability.",
+    "label": "Legal information",
+    "heading": "Legal Notice",
+    "intro": "In compliance with the duty to provide information set out in Article 10 of Spanish Law 34/2002 of 11 July on Information Society Services and Electronic Commerce, the following details are provided:",
+    "owner": "Owner",
+    "taxId": "Tax ID (NIF/CIF)",
+    "address": "Registered office",
+    "phone": "Phone",
+    "email": "Email",
+    "termsTitle": "Terms of use",
+    "termsBody": "Accessing and/or using this website makes you a user, and by that access and/or use you accept these terms of use. These terms apply regardless of any General Terms of Contract that may be mandatory in each case.",
+    "propertyTitle": "Intellectual and industrial property",
+    "propertyBody": "The contents of this website, including, by way of example, texts, images, graphics, logos and others, are the property of {company} or of third parties who have authorised their use. All rights reserved. Any unauthorised use of them will be considered an infringement of intellectual or industrial property rights.",
+    "liabilityTitle": "Disclaimer of warranties and liability",
+    "liabilityBody": "{company} shall in no event be liable for any loss or damage of any kind that may be caused by, by way of example, errors or omissions in the contents, unavailability of the website, or the transmission of viruses or malicious or harmful programs in the contents, despite having adopted all the technological measures necessary to prevent it.",
+    "changesTitle": "Changes",
+    "changesBody": "{company} reserves the right to make, without prior notice, any changes it considers appropriate to its website, and may change, remove or add both the contents and services provided through it and the way in which they are presented."
+  },
+  "privacy": {
+    "metaTitle": "Privacy policy",
+    "metaDescription": "Privacy policy of El Galeón de Alcorcón: this website does not collect personal data or use cookies. Links to third parties and changes to the policy.",
+    "label": "Legal information",
+    "heading": "Privacy Policy",
+    "intro": "This website does not collect any personal data from its users. The links and content available are limited to providing information about the restaurant {company}, such as its location and details of the menu.",
+    "purposeTitle": "1. Purpose of the website",
+    "purposeBody": "The purpose of this website is to provide information about the restaurant {company}, including its address, contact details and links to external platforms such as Google Maps to make it easier to get there.",
+    "linksTitle": "2. Links to third parties",
+    "linksBody": "This website contains links to external sites, such as Google Maps. {company} is not responsible for the content or privacy policies of those sites. We recommend that users review the privacy policies of the platforms they access through our links.",
+    "cookiesTitle": "3. Cookies",
+    "cookiesBody": "This website does not use cookies or any other mechanisms for tracking information.",
+    "changesTitle": "4. Changes",
+    "changesBody": "{company} reserves the right to modify this privacy policy to adapt it to new legislation or to changes in how the website works. Any change will be published on this same page."
+  },
+  "notFound": {
+    "metaTitle": "Page not found",
+    "label": "Error 404",
+    "heading": "Page not found",
+    "body": "The page you are looking for does not exist or has moved.",
+    "backHome": "Back to the home page"
+  }
+}
